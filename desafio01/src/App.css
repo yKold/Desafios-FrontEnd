@@ -1,0 +1,12 @@
+body{
+  background-image: linear-gradient(#FF6E00, #FFF200);
+  height: 100vh;
+  text-align: center;
+}
+
+p{
+  padding-top: 15px;
+  color: white;
+  font-weight: bold;
+  font-size: 40pt;
+}
